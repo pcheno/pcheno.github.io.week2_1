@@ -1,0 +1,48 @@
+#pred {
+	color: red;
+}
+
+#pblue {
+	color: blue;
+}
+
+#pgreen {
+	color: green;
+}
+
+#pbold {
+	font-weight: bold;
+}
+
+#pfontch {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#pbig {
+	font-size: 200%;
+}
+
+#psmall {
+	font-size: 1%;
+}
+
+#pcenter {
+	text-align: center;
+}
+
+#pbob {
+	font-weight: bold;
+	color: orange;
+	font-size: 200%;
+}
+
+p.styledFont {
+	color: green;
+	font-size: 150%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#styledImage {
+	border: 40px solid orange;
+
+}
